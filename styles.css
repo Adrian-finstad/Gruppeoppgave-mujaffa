@@ -65,7 +65,7 @@
     background-image: url('img/vei.png');
     background-position: 0% 0%;
     background: stretch no-repeat;
-animation: 0.7s linear infinite roadAnimation;
+animation: 0.3s linear infinite roadAnimation;
 z-index: 1;
 }
 
@@ -101,7 +101,7 @@ button{
     position: fixed;
     top: 200px;
     right: 390px;
-    animation: 1s linear 0s infinite alternate;
+    animation: 0.1s linear 0s infinite alternate;
 }
 
 @keyframes bilen 
